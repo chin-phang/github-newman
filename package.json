@@ -1,4 +1,11 @@
 {
+  "name": "github-newmann",
+  "description": "Assignment 2 - Postman Integration",
+  "homepage": "https://github.com/chin-phang/github-newman",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chin-phang/github-newman.git"
+  },
   "scripts": {
     "postman-tests": "newman run ./Reqres.postman_collection.json -r junit --reporter-junit-export results/report.xml"
   },
