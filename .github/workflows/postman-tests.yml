@@ -1,6 +1,12 @@
 name: postman-tests
-run-name: ${{ github.actor }} is learning GitHub Actions
-on: [push, pull]
+run-name: ${{ github.actor }} is pushing or pulling code
+on:
+  push:
+  branches:
+    - main
+  pull_request:
+  branches:
+    - main  
 jobs:
   postman-tests:
     runs-on: ubuntu-latest
