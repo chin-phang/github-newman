@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Reqres" tests="4" time="1.264">
+  <testsuite name="LIST USERS" id="91238bd1-2c58-4d6b-b3f8-358eb2d47fa4" timestamp="2024-07-22T10:19:16.314Z" tests="0" failures="0" errors="0" time="0.120"/>
+  <testsuite name="CREATE" id="d164c02c-3936-40d9-8dcd-3084e67af193" timestamp="2024-07-22T10:19:16.314Z" tests="0" failures="0" errors="0" time="0.375"/>
+  <testsuite name="UPDATE" id="b791dfe0-8313-49b4-8445-ba085def7ed6" timestamp="2024-07-22T10:19:16.314Z" tests="0" failures="0" errors="0" time="0.375"/>
+  <testsuite name="DELETE" id="b13ffcbc-9da9-4f13-a208-7a5c91b07d4b" timestamp="2024-07-22T10:19:16.314Z" tests="0" failures="0" errors="0" time="0.394"/>
+</testsuites>

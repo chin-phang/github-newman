@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "postman-tests": "newman run ./Reqres.postman_collection.json -r junit --reporter-junit-export results/report.xml"
+  },
+  "devDependencies": {
+    "newman": "^6.1.3"
+  }
+}
